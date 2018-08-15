@@ -32,7 +32,3 @@ def speak_to_grandma(phrase)
   end
 end
 
-if phrase === "I LOVE YOU GRANDMA"
-    return "I LOVE YOU TOO PUMPKIN"
-elsif phrase != phrase.upcase
-    return "HUH! SPEAK UP, SONNY"
